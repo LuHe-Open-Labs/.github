@@ -19,4 +19,4 @@ We welcome anyone who is interested in contributing to our mission. Whether you'
 
 If you have any questions or are interested in collaborating with us, please join our Discord community and get in touch with us there.
 
-[![Discord](https://img.shields.io/discord/1077567103349047296?color=7289DA&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/83bdWy6mRq)
+<code><a href="https://discord.gg/83bdWy6mRq"><img src="https://img.icons8.com/3d-fluency/64/discord-logo.png"/></a></code>
